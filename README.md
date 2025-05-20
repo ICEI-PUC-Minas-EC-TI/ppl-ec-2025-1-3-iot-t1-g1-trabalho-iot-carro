@@ -1,26 +1,26 @@
-# TÍTULO DO PROJETO
+# Trabalho IOT Carro
 
-`CAMPUS`
+`Campus Lourdes`
 
-`CURSO`
+`Engenharia de Computação`
 
-`SEMESTRE`
+`Terceiro Semestre`
 
-`DISCIPLINA`
+`Internet das Coisas`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Bernardo Rodrigues
+* Pedro Gonçalves
+* Alexandre Raposo
+* Marcos Vinicius
+* Eduardo Utsch Gonçalves
+* Gabriel Albino Mamede
 
 ## Orientador
 
-* Nome completo do professor 1 (Nome do professor de IoT1)
-* Nome completo do professor 2 (Nome do professor de Banco de Dados)
+* Julio Cesar Dillinger Conway
 
 ## Resumo
 
