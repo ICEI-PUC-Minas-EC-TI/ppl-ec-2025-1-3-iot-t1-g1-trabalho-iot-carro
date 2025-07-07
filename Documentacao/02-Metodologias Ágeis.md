@@ -12,6 +12,7 @@ Apresente a divisão de papéis entre os membros do grupo.
 A organização do time seguiu a estrutura do Scrum, sendo distribuída da seguinte forma:
 
 Scrum Master: Bernardo Rodrigues Pereira
+
 Equipe de Desenvolvimento: Alexandre Versiani Raposo, Bernardo Rodrigues Pereira, Eduardo Utsch Gonçalves, Gabriel Mamede Albino, Marcos Vinicius dos Santos Pereira, Pedro Gonçalves Contantino
 
 O Scrum Master ficou responsável por facilitar as reuniões, remover impedimentos e garantir a aplicação das práticas ágeis. Os demais membros atuaram no desenvolvimento, testes e integração das funcionalidades do sistema.
