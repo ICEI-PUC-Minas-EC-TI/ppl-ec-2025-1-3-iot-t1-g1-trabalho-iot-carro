@@ -1,3 +1,3 @@
 # Conclusão
 
-Descreva aqui a conclusão do projeto e sugestões de trabalhos futuros (o que pode ser melhorado em versões futuras).
+Este projeto foi desenvolvido como um protótipo, apresentando limitações principalmente devido à qualidade dos sensores utilizados, que não são de nível profissional, e à visualização do aplicativo, que é simples e não possui recursos avançados de interfaces profissionais. Apesar dessas restrições, o trabalho cumpriu com sucesso os objetivos propostos no início do projeto, demonstrando a viabilidade da solução e permitindo o controle e monitoramento do carro de forma satisfatória. Para trabalhos futuros, recomenda-se a utilização de sensores de maior precisão, aprimoramento da interface do aplicativo e a implementação de novas funcionalidades para ampliar as possibilidades do sistema.
