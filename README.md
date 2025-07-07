@@ -11,12 +11,12 @@
 
 ## Integrantes
 
-* Bernardo Rodrigues
-* Pedro Gonçalves
-* Alexandre Raposo
-* Marcos Vinicius
+* Alexandre Versiani Raposo
+* Bernardo Rodrigues Pereira
 * Eduardo Utsch Gonçalves
-* Gabriel Albino Mamede
+* Gabriel Mamede Albino
+* Marcos Vinicius dos Santos Pereira
+* Pedro Gonçalves Constantino
 
 ## Orientador
 
@@ -28,7 +28,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Código (do arduino ou esp32)
 
-<li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
+<li><a href="Codigo/Projeto_final.ino"> Código Fonte (.ino)</a></li>
 
 # Aplicativo para Smartphone
 
@@ -56,4 +56,3 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 <li><a href="Documentacao/05-Conclusão.md"> Conclusão </a></li>
 <li><a href="Documentacao/06-Referências.md"> Referências </a></li>
 </ol>
-
