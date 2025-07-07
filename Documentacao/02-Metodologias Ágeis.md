@@ -3,24 +3,38 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A equipe adotou uma abordagem baseada em metodologias ágeis, utilizando o Scrum como estrutura principal para organizar o trabalho e atacar o problema proposto. O desenvolvimento do projeto ocorreu de forma incremental e colaborativa, com reuniões frequentes realizadas tanto em salas de aula quanto na biblioteca da faculdade. Esses ambientes favoreceram a comunicação eficiente, a troca de ideias e a rápida resolução de dúvidas.
 
 ### Divisão de Papéis
 
 Apresente a divisão de papéis entre os membros do grupo.
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+A organização do time seguiu a estrutura do Scrum, sendo distribuída da seguinte forma:
+
+Scrum Master: Bernardo Rodrigues Pereira
+Equipe de Desenvolvimento: Alexandre Versiani Raposo, Bernardo Rodrigues Pereira, Eduardo Utsch Gonçalves, Gabriel Mamede Albino, Marcos Vinicius dos Santos Pereira, Pedro Gonçalves Contantino
+
+O Scrum Master ficou responsável por facilitar as reuniões, remover impedimentos e garantir a aplicação das práticas ágeis. Os demais membros atuaram no desenvolvimento, testes e integração das funcionalidades do sistema.
 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
+O processo de desenvolvimento foi dividido em sprints curtas, cada uma com objetivos bem definidos e entregas incrementais. A equipe realizou reuniões rápidas (dailies) para alinhar tarefas e identificar possíveis dificuldades.
+
+O desenvolvimento técnico seguiu uma abordagem progressiva:
+Inicialmente, os sensores foram testados individualmente com LEDs para validar seu funcionamento básico.
+Em seguida, foi estabelecida a conexão com o broker MQTT, inicialmente sem os sensores.
+Posteriormente, os sensores e atuadores foram integrados ao sistema de forma incremental. A cada etapa, um novo sensor era adicionado e validado, repetindo o processo até que todos estivessem integrados e funcionando corretamente.
+Por fim, foram realizados testes finais para garantir o funcionamento do sistema como um todo.
  
 
 ### Ferramentas
 
-As ferramentas utilizadas no projeto foram:
+As ferramentas utilizadas no desenvolvimento do projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+Arduino IDE: Programação e upload do firmware nos microcontroladores.
+PyCharm: Ambiente de desenvolvimento para scripts em Python.
+MQTT Box: Testes e monitoramento do tráfego de mensagens MQTT.
+IoT MQTT Panel: Visualização e interação remota com sensores e atuadores via protocolo MQTT.
+MySQL: Armazenamento e gerenciamento dos dados coletados.
+GitHub: Gestão do código-fonte, controle de versões e colaboração da equipe.
