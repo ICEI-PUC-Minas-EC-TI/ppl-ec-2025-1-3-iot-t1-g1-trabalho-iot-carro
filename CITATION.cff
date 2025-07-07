@@ -1,24 +1,24 @@
 cff-version: 1.0.1
 message: "Please cite this project using these metadata."
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: "Versiani Raposo"
+    given-names: "Alexandre"
+  - family-names: "Rodrigues Pereira"
+    given-names: "Bernardo"
+  - family-names: "Utsch Gonçalves"
+    given-names: "Eduardo"
+  - family-names: "Mamede Albino"
+    given-names: "Gabriel"
+  - family-names: "dos Santos Pereira"
+    given-names: "Marcos Vinicius"
+  - family-names: "Gonçalves Constantino"
+    given-names: "Pedro"
   - name-suffix: "Professor"
-    given-names: 
-    family-names:
+    given-names: "Julio Cesar"
+    family-names: "Dillinger Conway"
     affiliation: "PUC Minas"
-title: ""
+title: "Carro Inteligente"
 version: 1.0.0
-date-released: 2024-01-14
-url: ""
+date-released: 2025-01-01
+url: "https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2025-1-3-iot-t1-g1-trabalho-iot-carro/"
 
