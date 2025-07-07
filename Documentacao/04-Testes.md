@@ -1,3 +1,3 @@
 # Testes do Projeto
 
-Descreva aqui como foram realizados os testes para o funcionamento do projeto. Descreva também os resultados encontrados e as limitações do projeto.
+Cada sensor utilizado no projeto foi testado individualmente para garantir seu correto funcionamento. Após a validação dos sensores, o ESP foi testado, realizando a conexão com o servidor MQTT para verificar a comunicação entre os dispositivos. Em seguida, os motores foram adicionados ao sistema e testados para assegurar o controle adequado. Posteriormente, os sensores já testados foram integrados ao sistema completo e reavaliados em conjunto. Por fim, os atuadores foram incorporados e testados no contexto do projeto, garantindo que todo o conjunto funcionasse de forma integrada.
