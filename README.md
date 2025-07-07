@@ -37,8 +37,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 # Apresentação
 
 <ol>
-<li><a href="Apresentacao/README.md"> Vídeo do Funcionamento</a></li>
-<li><a href="Apresentacao/README.md"> Fotos do Projeto</a></li>
+<li><a href="Apresentacao/Apresentação_IoT.mp4"> Vídeo do Funcionamento</a></li>
+<li><a href="Apresentacao"> Fotos do Projeto</a></li>
 </ol>
 
 # Manual de Utilização
